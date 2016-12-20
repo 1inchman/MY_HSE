@@ -1,9 +1,10 @@
-n_experiments = 10000;
+n_experiments = 100000; % число бросков иглы
 
-hits = 0;
+hits = 0; % счетчик попаданий за границы
+% моделирвоание экспериментов
 for i = 1:n_experiments
   hits = hits + throw_needle();
 end
 
-printf("The probability estimated is %f\n", hits/n_experiments)
-printf("The true probability is %f\n", 2/pi)
+p_experiment = hits/n_experiments
+p_theory = 2/pi
