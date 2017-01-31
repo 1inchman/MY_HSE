@@ -26,5 +26,3 @@ plot(theta_hat, 'k');
 legend('Lower confidence bound', 'Upper confidence bound', 'Theta');
 % F-тест
 [f_hat f_table] = f_test(n, p);
-f_hat
-f_table

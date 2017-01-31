@@ -1,0 +1,615 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdftex 2016.5.22)  29 DEC 2016 17:47
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex
+(/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:3: Undefined control sequence.
+l.3 \usepackage
+               [T2A]{fontenc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:4: Undefined control sequence.
+l.4 \usepackage
+               [utf8]{inputenc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:5: Undefined control sequence.
+l.5 \usepackage
+               [english, russian]{babel} % –ª–æ–∫–∞–ª–∏–∑–∞—Ü–∏—è –∏ –ø–µ—Ä–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:6: Undefined control sequence.
+l.6 \usepackage
+               {indentfirst}   % —Ä—É—Å—Å–∫–∏–π —Å—Ç–∏–ª—å: –æ—Ç—Å—Ç—É–ø –ø–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:7: Undefined control sequence.
+l.7 \usepackage
+               {misccorr}      % —Ç–æ—á–∫–∞ –≤ –Ω–æ–º–µ—Ä–∞—Ö –∑–∞–≥–æ–ª–æ–≤...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:8: Undefined control sequence.
+l.8 \usepackage
+               {cmap}          % —Ä—É—Å—Å–∫–∏–π –ø–æ–∏—Å–∫ –≤ pdf
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:9: Undefined control sequence.
+l.9 \usepackage
+               {graphicx}      % –†–∞–±–æ—Ç–∞ —Å –≥—Ä–∞—Ñ–∏–∫–æ–π \includegr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:10: Undefined control sequence.
+l.10 \usepackage
+                {psfrag}        % –ó–∞–º–µ–Ω–∞ —Ç–∞–≥–æ–≤ –Ω–∞ eps –∫–∞—Ä—Ç–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:11: Undefined control sequence.
+l.11 \usepackage
+                {caption2}      % –†–∞–±–æ—Ç–∞ —Å –ø–æ–¥–ø–∏—Å—è–º–∏ –¥–ª—è ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:12: Undefined control sequence.
+l.12 \usepackage
+                {soul}          % –†–∞–∑—Ä—è–∂–µ–Ω–Ω—ã–π —Ç–µ–∫—Å—Ç \so{ –∏ ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:13: Undefined control sequence.
+l.13 \usepackage
+                {soulutf8}      % –ü–æ–¥–¥–µ—Ä–∂–∫–∞ UTF8 –≤ soul
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:14: Undefined control sequence.
+l.14 \usepackage
+                {fancyhdr}      % –î–ª—è —Ä–∞–±–æ—Ç—ã —Å –∫–æ–ª–æ–Ω—Ç–∏—Ç—É–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:15: Undefined control sequence.
+l.15 \usepackage
+                {multirow}      % –ê–Ω–∞–ª–æ–≥ multicolumn –¥–ª—è —Å—Ç—Ä–æ–∫
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:16: Undefined control sequence.
+l.16 \usepackage
+                {ltxtable}      % –ú–∏–∫—Å tabularx –∏ longtable
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:17: Undefined control sequence.
+l.17 \usepackage
+                {paralist}      % –°–ø–∏—Å–∫–∏ —Å –æ—Ç—Å—Ç—É–ø–æ–º —Ç–æ–ª—å–...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:20: Undefined control sequence.
+l.20 \usepackage
+                [perpage]{footmisc} % –ù—É–º–µ—Ä–∞—Ü–∏—è —Å–Ω–æ—Å–æ–∫ –Ω–∞ –...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:21: Undefined control sequence.
+l.21 \usepackage
+                {amsmath}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:22: Undefined control sequence.
+l.22 \usepackage
+                {amsfonts}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:23: Undefined control sequence.
+l.23 \usepackage
+                {amssymb}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:24: Undefined control sequence.
+l.24 \usepackage
+                {tabularx}  %–ø—Ä–æ–¥–≤–∏–Ω—É—Ç—ã–µ —Ç–∞–±–ª–∏—Ü—ã
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:25: Undefined control sequence.
+l.25 \usepackage
+                {fancyhdr} %–∫–æ–ª–æ–Ω—Ç–∏—Ç—É–ª—ã
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:26: Undefined control sequence.
+l.26 \usepackage
+                {longtable}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:27: Undefined control sequence.
+l.27 \usepackage
+                [table]{xcolor} %—Ü–≤–µ—Ç–∞ —è—á–µ–µ–∫
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:32: Undefined control sequence.
+l.32 \numberwithin
+                  {equation}{section}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:33: Undefined control sequence.
+l.33 \numberwithin
+                  {table}{section}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:34: Undefined control sequence.
+l.34 \numberwithin
+                  {figure}{section}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:37: Undefined control sequence.
+l.37 \begin
+           {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:38: Undefined control sequence.
+l.38 \title
+           {Tables and preambules}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:39: Undefined control sequence.
+l.39 \section
+             *{–ó–∞–¥–∞–Ω–∏–µ 1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:40: Undefined control sequence.
+l.40 \subsection
+                *{–ø—É–Ω–∫—Ç  1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+/Users/oneinchman/Documents/Git/MY_HSE/Urochka/hw1/report.tex:42: Undefined control sequence.
+l.42 ...—á–∏–Ω—ã —Å –ø–∞—Ä–∞–º–µ—Ç—Ä–∞–º–∏ \strong
+                                                  {p} –∑–∞ $X=(x_1, \cdots, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+)
+Runaway argument?
+ $P(v_p^{(1)}=x^{(1)}, \cdots , v_p^{(l)}=x^{(l)}) = \frac {m!}{x^{(1\ETC.
+! File ended while scanning use of \\.
+<inserted text> 
+                \par 
+<*> ...Documents/Git/MY_HSE/Urochka/hw1/report.tex
+                                                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Emergency stop.
+<*> ...Documents/Git/MY_HSE/Urochka/hw1/report.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
