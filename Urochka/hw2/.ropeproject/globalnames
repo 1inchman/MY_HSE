@@ -1,4 +1,5 @@
-€}qUmain]q(UscalerqUcolorqUcolsqUdatasetqUcolorsqUy_trainqUfoutq	U	reg_ridgeq
+€}q(Umain]q(UscalerqUcolorqUcolsqUdatasetqUcolorsqUy_trainqUfoutq	U	reg_ridgeq
 U
 best_scoreqUX_trainqUbaseline_RSS_trainqUregularization_lqUregularization_rqUcur_dirqUbaseline_modelqUfilter_conditionqUX_testqUlpqUdfqUscatter_matrixqUlasso_rss_trainqU	reg_lassoqUrpqUv_rss_t_baseqUXU
-best_modelqUlasso_paramsqUbaseline_RSS_testqUy_testqUv_rss_te_baseqUget_RSSq Uridge_rss_trainq!Utargetq"Ulasso_rss_testq#UlUridge_rss_testq$Uridge_paramsq%Ucolq&es.
+best_modelqUlasso_paramsqUbaseline_RSS_testqUy_testqUv_rss_te_baseqUridge_rss_trainq Utargetq!Ulasso_rss_testq"UlUridge_rss_testq#Umean_squared_errorq$Uridge_paramsq%Ucolq&eU	transform]q'(Ureg_listq(hhUmse_testq)hUgsq*hhUmodelsq+hUparamsq,hUregulq-hUridgeq.U	mse_trainq/Uparams_gridq0Uregq1UrUsmq2Umodelq3eUfull]q4(hhhhUXh.hhhhhhhh!eUseeds]q5(hhhhhUseedq6hh	h
+hhhhhhhhhhhhhhhhUXhhhhhUget_RSSq7h h!h"Ulh#h%h&eu.

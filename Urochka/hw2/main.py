@@ -4,10 +4,11 @@ import pandas as pd
 from sklearn.linear_model import Lasso, Ridge
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import r2_score
 import numpy as np
 from matplotlib import pyplot as plt
 
+mean_squared_error = r2_score
 cur_dir = os.path.dirname(os.path.abspath(__file__))
 dataset = os.path.join(cur_dir, 'housingprices.csv')
 
@@ -22,7 +23,6 @@ def filter_condition(x):
         return x
 
 cols = list(filter(filter_condition, df.columns))
-print(cols)
 target = df['Price']
 X = df[cols]
 X_train, X_test, y_train, y_test = train_test_split(X, target, test_size=0.3, random_state=42)
@@ -41,18 +41,15 @@ lasso_rss_test = []
 lasso_params = []
 ridge_params = []
 
-def get_RSS(y_true, y_pred):
-	return np.sum((y_true - y_pred)**2)
-
 best_model = np.mean(y_train)
-best_score = np.inf
+best_score = -9999999
 for l in regularization_l:
     reg_lasso = Lasso(alpha=l)
     reg_lasso.fit(X_train, y_train)
     lasso_rss_train.append(mean_squared_error(y_train, reg_lasso.predict(X_train)))
     lasso_rss_test.append(mean_squared_error(y_test, reg_lasso.predict(X_test)))
     lasso_params.append(reg_lasso.coef_)
-    if mean_squared_error(y_test, reg_lasso.predict(X_test)) < best_score:
+    if mean_squared_error(y_test, reg_lasso.predict(X_test)) > best_score:
         best_score = mean_squared_error(y_test, reg_lasso.predict(X_test))
         best_model = reg_lasso
 
@@ -62,7 +59,7 @@ for l in regularization_r:
     ridge_rss_train.append(mean_squared_error(y_train, reg_ridge.predict(X_train)))
     ridge_rss_test.append(mean_squared_error(y_test, reg_ridge.predict(X_test)))
     ridge_params.append(reg_ridge.coef_)
-    if mean_squared_error(y_test, reg_ridge.predict(X_test)) < best_score:
+    if mean_squared_error(y_test, reg_ridge.predict(X_test)) > best_score:
         best_score = mean_squared_error(y_test, reg_ridge.predict(X_test))
         best_model = reg_ridge
 

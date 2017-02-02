@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 FEB 2017 21:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 FEB 2017 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -791,7 +791,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              I'd suggest to use 
 (scrartcl)              package `scrlayer-scrpage'.
 (scrartcl)              Nevertheless, using requested
-(scrartcl)              package `fancyhdr' on input line 16.
+(scrartcl)              package `fancyhdr' on input line 17.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip56
@@ -965,20 +965,20 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1031,18 +1031,18 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 39.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 40.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )<<t2a.cmap>><<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1054,13 +1054,13 @@ sso.png, id=15, 578.16pt x 397.485pt>
 File: rss_lasso.png Graphic file (type png)
 
 <use rss_lasso.png>
-Package pdftex.def Info: rss_lasso.png used on input line 76.
+Package pdftex.def Info: rss_lasso.png used on input line 81.
 (pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
  <rss_ridge.png, id=17, 578.16pt x 397.485pt>
 File: rss_ridge.png Graphic file (type png)
 
 <use rss_ridge.png>
-Package pdftex.def Info: rss_ridge.png used on input line 81.
+Package pdftex.def Info: rss_ridge.png used on input line 86.
 (pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
 
 
@@ -1074,13 +1074,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.91 \begin{figure}[H]
+l.96 \begin{figure}[H]
                       
 ? 
 <Lasso_params.png, id=22, 578.16pt x 397.485pt>
 File: Lasso_params.png Graphic file (type png)
  <use Lasso_params.png>
-Package pdftex.def Info: Lasso_params.png used on input line 93.
+Package pdftex.def Info: Lasso_params.png used on input line 98.
 (pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
 
 
@@ -1090,34 +1090,82 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 \begin{figure}[H]
-                      
+l.101 \begin{figure}[H]
+                       
 ? 
 <Ridge_params.png, id=23, 578.16pt x 397.485pt>
 File: Ridge_params.png Graphic file (type png)
  <use Ridge_params.png>
-Package pdftex.def Info: Ridge_params.png used on input line 98.
+Package pdftex.def Info: Ridge_params.png used on input line 103.
 (pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
- [3 <./rss_ridge.png>] [4 <./Lasso_params.png> <./Ridge_params.png>] [5] (./rep
+ [3 <./rss_ridge.png>] [4 <./Lasso_params.png> <./Ridge_params.png>]
+
+! LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \begin{figure}[H]
+                       
+? 
+<transform/r2_lasso.png, id=33, 578.16pt x 397.485pt>
+File: transform/r2_lasso.png Graphic file (type png)
+
+<use transform/r2_lasso.png>
+Package pdftex.def Info: transform/r2_lasso.png used on input line 142.
+(pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
+
+
+! LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 \begin{figure}[H]
+                       
+? 
+<transform/r2_ridge.png, id=34, 578.16pt x 397.485pt>
+File: transform/r2_ridge.png Graphic file (type png)
+
+<use transform/r2_ridge.png>
+Package pdftex.def Info: transform/r2_ridge.png used on input line 147.
+(pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
+ [5] [6 <./transform/r2_lasso.png> <./transform/r2_ridge.png>] <transform/lasso
+__params.png, id=43, 578.16pt x 397.485pt>
+File: transform/lasso__params.png Graphic file (type png)
+
+<use transform/lasso__params.png>
+Package pdftex.def Info: transform/lasso__params.png used on input line 152.
+(pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
+
+<transform/ridge__params.png, id=44, 578.16pt x 397.485pt>
+File: transform/ridge__params.png Graphic file (type png)
+
+<use transform/ridge__params.png>
+Package pdftex.def Info: transform/ridge__params.png used on input line 157.
+(pdftex.def)             Requested size: 448.13095pt x 308.09013pt.
+ [7 <./transform/lasso__params.png>] [8 <./transform/ridge__params.png>] (./rep
 ort.aux) ) 
 Here is how much of TeX's memory you used:
- 8158 strings out of 493014
- 120947 string characters out of 6133351
- 272555 words of memory out of 5000000
- 11505 multiletter control sequences out of 15000+600000
+ 8179 strings out of 493014
+ 121483 string characters out of 6133351
+ 273569 words of memory out of 5000000
+ 11521 multiletter control sequences out of 15000+600000
  13471 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,7n,51p,8604b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,7n,51p,8604b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super
 -t2a.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
 .pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
 fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb
 >
-Output written on report.pdf (5 pages, 231839 bytes).
+Output written on report.pdf (8 pages, 388846 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

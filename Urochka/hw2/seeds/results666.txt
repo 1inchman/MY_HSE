@@ -1,0 +1,6 @@
+The best model is Ridge(alpha=24.100000000000001, copy_X=True, fit_intercept=True,
+   max_iter=None, normalize=False, random_state=None, solver='auto',
+   tol=0.001) 
+The best score is 0.60842533847193 
+The best params are [ 17.96826815  27.84893484  18.44705912 -18.68253645 -19.6111924
+  10.07140584   4.64694919 -16.38524371  19.28907804] 
